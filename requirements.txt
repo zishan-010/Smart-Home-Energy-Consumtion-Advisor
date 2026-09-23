@@ -1,0 +1,7 @@
+streamlit>=1.38
+langchain>=0.3
+langchain-core>=0.3
+langchain-groq>=0.2
+scikit-fuzzy>=0.4.2
+numpy>=1.26
+pydantic>=2.7
