@@ -5,6 +5,7 @@ langchain-core>=0.2,<0.3
 pydantic>=2,<3
 scikit-fuzzy>=0.4.2,<0.5
 scipy>=1.13.0
+setuptools
 networkx>=3,<4
 numpy>=1.26,<2
 pandas>=2,<3
